@@ -1,2 +1,3 @@
-# python1
-Basic operations
+A=10
+B=20
+print(a+b)
